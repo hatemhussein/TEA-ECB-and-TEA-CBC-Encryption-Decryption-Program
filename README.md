@@ -17,3 +17,8 @@ You can install the required libraries using pip:
 
 ```sh
 pip install pillow numpy matplotlib termcolor
+
+## Files
+
+The project consists of the following files:
+- main.py: The main script that runs the TEA encryption/decryption program.
