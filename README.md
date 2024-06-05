@@ -1,7 +1,4 @@
 # TEA-ECB-and-TEA-CBC-Encryption-Decryption-Program
-# Creating the README file content
-readme_content = """
-# TEA Encryption/Decryption Program
 
 ## Overview
 
